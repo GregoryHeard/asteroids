@@ -9,3 +9,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+import constants
+
+print("Starting Asteroids!" \
+"Screen width: 1280" \
+"Screen height: 720")
